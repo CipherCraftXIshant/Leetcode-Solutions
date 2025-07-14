@@ -16,4 +16,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
