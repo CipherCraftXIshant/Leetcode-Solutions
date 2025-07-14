@@ -8,6 +8,7 @@ This repo will hold all of my leetcode solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
