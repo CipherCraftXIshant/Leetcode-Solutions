@@ -6,6 +6,7 @@ This repo will hold all of my leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -16,6 +17,7 @@ This repo will hold all of my leetcode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
