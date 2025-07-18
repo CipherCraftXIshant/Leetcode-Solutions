@@ -28,6 +28,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +37,5 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
