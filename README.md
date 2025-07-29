@@ -11,6 +11,7 @@ This repo will hold all of my leetcode solutions.
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -20,6 +21,7 @@ This repo will hold all of my leetcode solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,5 +41,10 @@ This repo will hold all of my leetcode solutions.
 | ------- |
 | [0035-search-insert-position](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
