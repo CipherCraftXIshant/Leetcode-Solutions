@@ -10,6 +10,7 @@ This repo will hold all of my leetcode solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +29,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
@@ -37,6 +39,7 @@ This repo will hold all of my leetcode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
@@ -53,4 +56,12 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
