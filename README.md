@@ -14,6 +14,7 @@ This repo will hold all of my leetcode solutions.
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ This repo will hold all of my leetcode solutions.
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
