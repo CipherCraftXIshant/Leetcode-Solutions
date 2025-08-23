@@ -11,6 +11,7 @@ This repo will hold all of my leetcode solutions.
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@ This repo will hold all of my leetcode solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -37,6 +39,7 @@ This repo will hold all of my leetcode solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
