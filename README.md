@@ -21,6 +21,7 @@ This repo will hold all of my leetcode solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -66,6 +67,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
