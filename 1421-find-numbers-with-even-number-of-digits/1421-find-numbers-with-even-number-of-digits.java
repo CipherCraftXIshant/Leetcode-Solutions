@@ -4,7 +4,7 @@ class Solution {
         int sum = 0;
         for(int i=0;i<n;i++){
             int count = 0;
-            int temp = nums[i];
+            int temp = Math.abs(nums[i]);
 
             if(temp == 0){
                 count = 1;
