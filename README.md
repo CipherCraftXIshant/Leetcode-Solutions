@@ -18,6 +18,7 @@ This repo will hold all of my leetcode solutions.
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -41,6 +42,7 @@ This repo will hold all of my leetcode solutions.
 | [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
