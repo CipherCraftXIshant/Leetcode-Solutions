@@ -19,6 +19,7 @@ This repo will hold all of my leetcode solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -76,4 +77,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
