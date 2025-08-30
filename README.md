@@ -21,6 +21,7 @@ This repo will hold all of my leetcode solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -41,6 +42,7 @@ This repo will hold all of my leetcode solutions.
 | [0001-two-sum](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This repo will hold all of my leetcode solutions.
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
