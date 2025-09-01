@@ -20,6 +20,7 @@ This repo will hold all of my leetcode solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -71,6 +72,7 @@ This repo will hold all of my leetcode solutions.
 | [0287-find-the-duplicate-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
