@@ -24,6 +24,7 @@ This repo will hold all of my leetcode solutions.
 | [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -82,6 +83,7 @@ This repo will hold all of my leetcode solutions.
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
