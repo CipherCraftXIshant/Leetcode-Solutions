@@ -50,6 +50,7 @@ This repo will hold all of my leetcode solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +114,8 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
