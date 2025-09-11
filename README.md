@@ -23,6 +23,7 @@ This repo will hold all of my leetcode solutions.
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -58,6 +59,7 @@ This repo will hold all of my leetcode solutions.
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
