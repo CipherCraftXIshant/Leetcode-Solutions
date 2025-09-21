@@ -29,6 +29,7 @@ This repo will hold all of my leetcode solutions.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -120,5 +121,6 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
