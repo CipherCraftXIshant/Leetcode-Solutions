@@ -119,5 +119,6 @@ This repo will hold all of my leetcode solutions.
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
