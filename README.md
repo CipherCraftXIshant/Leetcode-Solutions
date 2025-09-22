@@ -120,6 +120,7 @@ This repo will hold all of my leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
