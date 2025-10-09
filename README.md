@@ -21,6 +21,7 @@ This repo will hold all of my leetcode solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1137-height-checker](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -66,6 +67,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1137-height-checker](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Binary Search
@@ -112,6 +114,7 @@ This repo will hold all of my leetcode solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
