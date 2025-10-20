@@ -34,6 +34,7 @@ This repo will hold all of my leetcode solutions.
 | [1791-richest-customer-wealth](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -92,6 +93,7 @@ This repo will hold all of my leetcode solutions.
 | [1505-create-target-array-in-the-given-order](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -128,4 +130,5 @@ This repo will hold all of my leetcode solutions.
 | [1651-shuffle-string](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
