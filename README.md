@@ -50,6 +50,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +60,7 @@ This repo will hold all of my leetcode solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -125,6 +127,7 @@ This repo will hold all of my leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/CipherCraftXIshant/Leetcode-Solutions/tree/master/1651-shuffle-string) |
