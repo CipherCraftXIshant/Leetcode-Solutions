@@ -10,6 +10,7 @@ class Solution {
             }
             else{
                 if(st.isEmpty()) return false;
+            
             char top = st.pop();
             if(ch == ')' && top!= '('){
                 return false;
@@ -23,6 +24,10 @@ class Solution {
 
         }
         }
-        return st.isEmpty();
+        if(st.isEmpty()) {
+            return true;
+        }else{
+            return false;
+        }
     }
 }
