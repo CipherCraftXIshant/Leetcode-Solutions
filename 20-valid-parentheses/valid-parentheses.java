@@ -8,23 +8,21 @@ class Solution {
             if(ch == '(' || ch == '[' || ch == '{'){
                 st.push(ch);
             }
-            else if (ch == ')') { // ch==')'
-                if(st.size()==0) return false;
-                if(st.peek() == '(') st.pop();
-                else return false; 
+            else{
+                if(st.isEmpty()) return false;
+            char top = st.pop();
+            if(ch == ')' && top!= '('){
+                return false;
             }
-            else if (ch == ']') { // ch==']'
-                if(st.size()==0) return false;
-                if(st.peek() == '[') st.pop();
-                else return false; 
+            if(ch == ']' && top!= '['){
+                return false;
             }
-            else if (ch == '}') { // ch=='}'
-                if(st.size()==0) return false;
-                if(st.peek() == '{') st.pop();
-                else return false; 
+            if(ch == '}' && top!= '{'){
+                return false;
             }
+
         }
-        if(st.size()>0) return false;
-        else return true;
+        }
+        return st.isEmpty();
     }
 }
