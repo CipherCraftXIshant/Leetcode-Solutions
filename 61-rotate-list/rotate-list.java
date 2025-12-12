@@ -24,6 +24,10 @@ class Solution {
 
         temp.next = head;
         k = k % length;
+        if (k == 0) {
+            temp.next = null;
+            return head;
+        }
         k = length - k;
 
         while (k-- > 0) {
