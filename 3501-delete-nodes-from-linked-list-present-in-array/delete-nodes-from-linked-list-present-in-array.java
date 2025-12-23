@@ -10,21 +10,26 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> dup = new HashSet<>();
-        for(int num : nums){
-            dup.add(num);
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
 
-        ListNode res = new ListNode(-1);
-        ListNode temp = res;
-        while(head!=null){
-            if(!dup.contains(head.val)){
-                temp.next = head;
-                temp = temp.next;
+        // Step 2: Dummy node
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        // Step 3: Traverse
+        ListNode curr = dummy;
+        while (curr.next != null) {
+            if (set.contains(curr.next.val)) {
+                // delete node
+                curr.next = curr.next.next;
+            } else {
+                curr = curr.next;
             }
-            head=head.next;
         }
-        temp.next=null;
-        return res.next;
+
+        return dummy.next;
     }
 }
