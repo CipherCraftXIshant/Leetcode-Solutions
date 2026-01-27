@@ -1,6 +1,7 @@
 class Solution {
     public int minimizedStringLength(String l) {
-        HashSet<Character> set = new HashSet<>();
+        int count = 0;
+        boolean[] seen = new boolean[26];
         for(char s : l.toCharArray()){
             // if(set.contains(s)){
             //     set.remove(s);
@@ -8,8 +9,11 @@ class Solution {
             // else{
             //     set.add(s);
             // }
-            set.add(s);
+            if(!seen[s - 'a']){
+                seen[s - 'a'] = true;
+                count++;
+            }
         }
-        return set.size();
+        return count;
     }
 }
