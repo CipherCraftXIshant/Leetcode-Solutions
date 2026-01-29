@@ -4,7 +4,7 @@ class Solution {
         int cons = 0;
         int [] freq = new int[26];
         for(char c : s.toCharArray()){
-            char i = (char)(c -'a');
+            int i = (c -'a');
             freq[i]++;
             if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 vowel = Math.max(vowel,freq[i]);
